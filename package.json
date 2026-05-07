@@ -2,7 +2,7 @@
     "private": true,
     "scripts": {
         "dev": "vite",
-        "build": "echo 'Build skipped - using pre-built assets'"
+        "build": "vite build"
     },
     "devDependencies": {}
 }
